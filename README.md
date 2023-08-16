@@ -1,5 +1,5 @@
 # Energy
 Web site about gym made in html, css and js
 
-#Link
+# Link
 https://energyacademy.netlify.app
